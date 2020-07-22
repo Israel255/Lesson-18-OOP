@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\עבודות\Lesson 18 OOP\Lesson_18_OOP\Lesson_18_OOP\obj\Debug\Lesson_18_OOP.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\Lesson 18 OOP\Lesson_18_OOP\Lesson_18_OOP\obj\Debug\Lesson_18_OOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\Lesson 18 OOP\Lesson_18_OOP\Lesson_18_OOP\bin\Debug\Lesson_18_OOP.exe.config
+C:\Users\USER\Desktop\עבודות\Lesson 18 OOP\Lesson_18_OOP\Lesson_18_OOP\bin\Debug\Lesson_18_OOP.exe
+C:\Users\USER\Desktop\עבודות\Lesson 18 OOP\Lesson_18_OOP\Lesson_18_OOP\bin\Debug\Lesson_18_OOP.pdb
+C:\Users\USER\Desktop\עבודות\Lesson 18 OOP\Lesson_18_OOP\Lesson_18_OOP\obj\Debug\Lesson_18_OOP.exe
+C:\Users\USER\Desktop\עבודות\Lesson 18 OOP\Lesson_18_OOP\Lesson_18_OOP\obj\Debug\Lesson_18_OOP.pdb
